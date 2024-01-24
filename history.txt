@@ -1,0 +1,212 @@
+  153  git--version
+  154  git--version
+  155  git -- version
+  156  git --version
+  157  git config --global user.name "Tate Smith"
+  158  git config --list
+  159  git config --global user.email "tatesm16@icloud.com" 
+  160  git config --global core.editor "code --wait"
+  161  git config --global init.deafaultBranch main
+  162  git config --list
+  173  git init
+  175  git status
+  176  git add file1.txt
+  177  git status
+  178  git commit -m "First Commit"
+  179  git log
+  180  git status
+  181  git add .
+  182  git status
+  183  git mv 'Stats 386' Practice_file
+  184  git mv 'Stats 386' 'Practice_file'
+  185  git mv Stats 386 Practice_file
+  186  git status
+  187  git mv Stats 386 Practice File
+  188  git mv Stats 386 PractiveFile
+  189  git status
+  190  git config --global init.defaultBranch main
+  191  git status
+  195  .gitignore
+  200  .gitignore
+  202  .gitignore newapikey
+  203  touch .gitignore
+  204  .gitignore newapikey
+  206  .gitignore newapikey.txt
+  208  newapikey .gitignore
+  210  git branch
+  213  git branch
+  214  git branch new-feature
+  215  git --config
+  216  git config
+  217  git config --global user.name "Tate Smith"
+  218  git config --global user.email "tatems@byu.edu"
+  219  git config --global core.editor "code --wait"
+  220  git config --global init.defaultBranch main
+  221  git commit -m
+  222  git init GitPractice
+  223  git init
+  225  git global
+  226  git branch
+  227  git branch new-feature
+  230  .gitignore newapi.txt
+  231  git log
+  232  git status
+  235  git status
+  236  git remote -v
+  237  git remote add origin <git@github.com:tatesm/git-practiceT.git>
+  238   git remote add origin <git@github.com:tatesm/git-practiceT.git>
+  239  git remote -v
+  240  git remote -v
+  241   git remote add origin <git@github.com:tatesm/git-practiceT.git>
+  242   git remote add origin<git@github.com:tatesm/git-practiceT.git>
+  243  git remote add origin <git@github.com:tatesm/git-practiceT.git>
+  244  git remote add origin git@github.com:tatesm/git-practiceT.git
+  245  git push -u origin main
+  246  git push
+  247  git push -u origin main
+  248  git push -u origin main
+  249  git remote -v
+  250  git 
+  251  git remote set-url origin git@github.com:tatesm/git-practiceT.git
+  252  git push -u origin main
+  253  git log
+  254  git commit
+  255  git commit -m "first commit"
+  256  git push -u origin main
+  257  git add [newTxt]
+  259  git add [newTXT]
+  260  git add newTXT
+  261  git add
+  262  git commit -m "new file"
+  263  git log
+  264  git push -u origin main
+  266  git add newTXT2
+  267  git commit
+  268  git commit -m "new txt part2"
+  269  git push
+  275  touch git-practice-tatesm
+  277  cd git-practice-tatesm
+  278  mkdir git-practice-tatesm
+  279  mkdir git-practice-tatesm
+  280  cd git-practice-tatesm
+  281  git init
+  286  git status
+  287  git add
+  288  git add file_1.txt file_2.txt
+  289  git status
+  291  git commit -m "create new files"
+  292  git status
+  293  git log
+  294  git add file_1.txt
+  295  git commit -m "edit txt 1"
+  296  git status
+  297  git add file_2.txt
+  298  git commit -m "edit txt 2"
+  299  git status
+  300  git log
+  302  git add Readme.md
+  303  git commit -m "add readme"
+  304  git status
+  305  git log
+  306  touch .gitignore
+  307  echo "api-keys.txt" >> .gitignore
+  308  git add .gitignore
+  309  git commit -m "add gitignore"
+  310  git status
+  311  git log
+  312  git add .gitignore
+  313  git status
+  314  touch .gitignore
+  315  git add .gitignore
+  316  git status
+  317  git commit -m "add gitignore"
+  319  git status
+  321  git status
+  322  git checkout -b features
+  323  git branch
+  324  git log
+  326  git add newfeatures.txt
+  327  git add new_features.txt
+  328  git commit -m "add empty file"
+  329  git commit -m "edit new features"
+  330  git add new_features.txt
+  331  git commit -m "edit new features"
+  332  git branch
+  333  git checkout main
+  334  git branch
+  336  git add file_1.txt
+  337  git commit -m "edit file1"
+  338  git merge features
+  339  git lgo
+  340  git log
+  344  cd git-practice-tatesm
+  345  git lgo
+  346  git log
+  347  git log
+  351  cd git-practice-tatesm
+  352  git status
+  353  git status
+  354  git log
+  355  git branch
+  357  cd git-practice-tatesm
+  358  cd git-practice-tatesm
+  360  cd git-practice-tatesm
+  361  git branch
+  362  git log
+  363  git status
+  364  git add new_features.txt
+  365  git commit -m "edit new_features"
+  366  git breakout features
+  367  git checkout features
+  368  git checkout main
+  369  git add new_features.txt
+  370  git commit -m "edit new_features"
+  371  git checkout features
+  372  git add new_features.txt
+  373  git commit -m "edit new_features on features"
+  374  git checkout main
+  375  git merge features
+  376  git commit -m "edit new_features on features merge"
+  377  git add new_features.txt
+  378  git commit -m "edit new_features on features merge"
+  379  git merge features
+  380  git branch -D features
+  381  git remote add origin git@github.com:tatesm/git-practice-tatesm.git
+  382  git push -u origin main
+  383  git log
+  384  git status
+  387  cd git-practice-tatesm
+  388  git log
+  393  git clone https://github.com/tatesm/git-practice-nkschulzk.git
+  396  git init
+  397  git clone https://github.com/tatesm/git-practice-nkschulzk.git
+  398  git branch -c feature-tatesm
+  399  git branch feature-tatesm
+  400  git branch feature-tatesm
+  401  git branch -c feature-tatesm
+  402  git log
+  403  git status
+  404  git branch feature-tatesm
+  405  git init
+  406  git branch feature-tatesm
+  407  git commit
+  408  git add 
+  409  git add  git-practice-nkschulzk/
+  410  git status
+  411  git branch feature-tatesm
+  414  git clone https://github.com/tatesm/git-practice-nkschulzk.git
+  415  git branch feature-tatesm
+  416  git init
+  417  git branch feature-tatesm
+  419  cd git-practice-nkschulzk
+  420  git branch feature-tatesm
+  421  git checkout feature-tatesm
+  423  git add new_file_tate
+  424  git commit
+  425  git commit -m new file add tate
+  426  git commit -m "new file added tate"
+  427  git push origin feature-tatesm
+  431  cd git-practice-tatesm
+  432  git pull
+  433  git log --oneline > gitlog.txt
+  434  history | grep git > history.txt
